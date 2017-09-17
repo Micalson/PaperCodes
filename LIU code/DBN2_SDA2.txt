@@ -1,0 +1,12 @@
+Training RBM 1/2
+epoch 1/1. Average reconstruction error is: 65.7645
+Training RBM 2/2
+epoch 1/1. Average reconstruction error is: 10.8421
+Training AE 1/2
+epoch 1/1. Took 2.2977 seconds. Mini-batch mean squared error on training set is 2.727; Full-batch train err = 1.348919
+Training AE 2/2
+epoch 1/1. Took 2.3055 seconds. Mini-batch mean squared error on training set is 2.0588; Full-batch train err = 0.869530
+Training NN 
+epoch 1/1. Took 7.5873 seconds. Mini-batch mean squared error on training set is 0.16663; Full-batch train err = 0.075445
+The last accuracy is 91.52%
+Elapsed time is 9.883901 seconds.

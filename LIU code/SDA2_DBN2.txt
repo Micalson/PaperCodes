@@ -1,0 +1,16 @@
+Training AE 1/2
+epoch 1/1. Took 12.8123 seconds. Mini-batch mean squared error on training set is 10.7232; Full-batch train err = 10.352602
+Training AE 2/2
+epoch 1/1. Took 2.1447 seconds. Mini-batch mean squared error on training set is 1.2314; Full-batch train err = 0.597058
+Training RBM 1/2
+epoch 1/1. Average reconstruction error is: 30.8362
+Training RBM 2/2
+epoch 1/1. Average reconstruction error is: 2.5329
+Training NN 
+epoch 1/5. Took 7.4798 seconds. Mini-batch mean squared error on training set is 0.27299; Full-batch train err = 0.137856
+epoch 2/5. Took 7.5172 seconds. Mini-batch mean squared error on training set is 0.096592; Full-batch train err = 0.069621
+epoch 3/5. Took 7.6823 seconds. Mini-batch mean squared error on training set is 0.063415; Full-batch train err = 0.051911
+epoch 4/5. Took 7.7006 seconds. Mini-batch mean squared error on training set is 0.051076; Full-batch train err = 0.044995
+epoch 5/5. Took 7.6672 seconds. Mini-batch mean squared error on training set is 0.043128; Full-batch train err = 0.037807
+The last accuracy is 95.4233%
+Elapsed time is 11.402608 seconds.

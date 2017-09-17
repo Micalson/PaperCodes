@@ -1,0 +1,163 @@
+epoch 1/1. Took 5.3082 seconds. Mini-batch mean squared error on training set is 0.16223; Full-batch train err = 0.071383
+
+nn = 
+
+                       size: [784 100 10]
+                          n: 3
+        activation_function: 'tanh_opt'
+               learningRate: 2
+                   momentum: 0.5000
+       scaling_learningRate: 1
+            weightPenaltyL2: 0
+         nonSparsityPenalty: 0
+             sparsityTarget: 0.0500
+    inputZeroMaskedFraction: 0
+            dropoutFraction: 0
+                    testing: 0
+                     output: 'sigm'
+                          W: {[100x785 double]  [10x101 double]}
+                         vW: {[100x785 double]  [10x101 double]}
+                          p: {[]  [1x100 double]  [0 0 0 0 0 0 0 0 0 0]}
+                          a: {[100x785 double]  [100x101 double]  [100x10 double]}
+                          e: [100x10 double]
+                          L: 0.0682
+                         dW: {[100x785 double]  [10x101 double]}
+
+epoch 1/1. Took 5.5002 seconds. Mini-batch mean squared error on training set is 0.15734; Full-batch train err = 0.063632
+
+nn = 
+
+                       size: [784 100 10]
+                          n: 3
+        activation_function: 'tanh_opt'
+               learningRate: 2
+                   momentum: 0.5000
+       scaling_learningRate: 1
+            weightPenaltyL2: 1.0000e-004
+         nonSparsityPenalty: 0
+             sparsityTarget: 0.0500
+    inputZeroMaskedFraction: 0
+            dropoutFraction: 0
+                    testing: 0
+                     output: 'sigm'
+                          W: {[100x785 double]  [10x101 double]}
+                         vW: {[100x785 double]  [10x101 double]}
+                          p: {[]  [1x100 double]  [0 0 0 0 0 0 0 0 0 0]}
+                          a: {[100x785 double]  [100x101 double]  [100x10 double]}
+                          e: [100x10 double]
+                          L: 0.0397
+                         dW: {[100x785 double]  [10x101 double]}
+
+epoch 1/1. Took 5.2129 seconds. Mini-batch mean squared error on training set is 0.21087; Full-batch train err = 0.070079
+
+nn = 
+
+                       size: [784 100 10]
+                          n: 3
+        activation_function: 'tanh_opt'
+               learningRate: 2
+                   momentum: 0.5000
+       scaling_learningRate: 1
+            weightPenaltyL2: 0
+         nonSparsityPenalty: 0
+             sparsityTarget: 0.0500
+    inputZeroMaskedFraction: 0
+            dropoutFraction: 0.5000
+                    testing: 0
+                     output: 'sigm'
+                          W: {[100x785 double]  [10x101 double]}
+                         vW: {[100x785 double]  [10x101 double]}
+                          p: {[]  [1x100 double]  [0 0 0 0 0 0 0 0 0 0]}
+                          a: {[100x785 double]  [100x101 double]  [100x10 double]}
+                dropOutMask: {[]  [100x100 logical]}
+                          e: [100x10 double]
+                          L: 0.0799
+                         dW: {[100x785 double]  [10x101 double]}
+
+epoch 1/1. Took 4.8406 seconds. Mini-batch mean squared error on training set is 0.12785; Full-batch train err = 0.067301
+
+nn = 
+
+                       size: [784 100 10]
+                          n: 3
+        activation_function: 'sigm'
+               learningRate: 1
+                   momentum: 0.5000
+       scaling_learningRate: 1
+            weightPenaltyL2: 0
+         nonSparsityPenalty: 0
+             sparsityTarget: 0.0500
+    inputZeroMaskedFraction: 0
+            dropoutFraction: 0
+                    testing: 0
+                     output: 'sigm'
+                          W: {[100x785 double]  [10x101 double]}
+                         vW: {[100x785 double]  [10x101 double]}
+                          p: {[]  [1x100 double]  [0 0 0 0 0 0 0 0 0 0]}
+                          a: {[100x785 double]  [100x101 double]  [100x10 double]}
+                          e: [100x10 double]
+                          L: 0.0433
+                         dW: {[100x785 double]  [10x101 double]}
+
+epoch 1/5. Took 2.6027 seconds. Mini-batch mean squared error on training set is 0.94451; Full-batch train err = 0.387429
+epoch 2/5. Took 2.607 seconds. Mini-batch mean squared error on training set is 0.35993; Full-batch train err = 0.310213
+epoch 3/5. Took 2.5909 seconds. Mini-batch mean squared error on training set is 0.30622; Full-batch train err = 0.279947
+epoch 4/5. Took 2.6023 seconds. Mini-batch mean squared error on training set is 0.27597; Full-batch train err = 0.249559
+epoch 5/5. Took 2.5998 seconds. Mini-batch mean squared error on training set is 0.25535; Full-batch train err = 0.234196
+
+nn = 
+
+                       size: [784 20 10]
+                          n: 3
+        activation_function: 'tanh_opt'
+               learningRate: 2
+                   momentum: 0.5000
+       scaling_learningRate: 1
+            weightPenaltyL2: 0
+         nonSparsityPenalty: 0
+             sparsityTarget: 0.0500
+    inputZeroMaskedFraction: 0
+            dropoutFraction: 0
+                    testing: 0
+                     output: 'softmax'
+                          W: {[20x785 double]  [10x21 double]}
+                         vW: {[20x785 double]  [10x21 double]}
+                          p: {[]  [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]  [1x10 double]}
+                          a: {[1000x785 double]  [1000x21 double]  [1000x10 double]}
+                          e: [1000x10 double]
+                          L: 0.3061
+                         dW: {[20x785 double]  [10x21 double]}
+
+epoch 1/5. Took 2.0626 seconds. Mini-batch mean squared error on training set is 1.0475; Full-batch train mse = 0.405633, val mse = 0.447144
+epoch 2/5. Took 2.0546 seconds. Mini-batch mean squared error on training set is 0.37494; Full-batch train mse = 0.317226, val mse = 0.367463
+epoch 3/5. Took 2.0753 seconds. Mini-batch mean squared error on training set is 0.31496; Full-batch train mse = 0.279467, val mse = 0.340747
+epoch 4/5. Took 2.0481 seconds. Mini-batch mean squared error on training set is 0.28199; Full-batch train mse = 0.252619, val mse = 0.328208
+epoch 5/5. Took 2.0638 seconds. Mini-batch mean squared error on training set is 0.26141; Full-batch train mse = 0.236675, val mse = 0.321530
+
+nn = 
+
+                       size: [784 20 10]
+                          n: 3
+        activation_function: 'tanh_opt'
+               learningRate: 2
+                   momentum: 0.5000
+       scaling_learningRate: 1
+            weightPenaltyL2: 0
+         nonSparsityPenalty: 0
+             sparsityTarget: 0.0500
+    inputZeroMaskedFraction: 0
+            dropoutFraction: 0
+                    testing: 0
+                     output: 'softmax'
+                          W: {[20x785 double]  [10x21 double]}
+                         vW: {[20x785 double]  [10x21 double]}
+                          p: {[]  [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]  [1x10 double]}
+                          a: {[1000x785 double]  [1000x21 double]  [1000x10 double]}
+                          e: [1000x10 double]
+                          L: 0.2815
+                         dW: {[20x785 double]  [10x21 double]}
+
+
+er =
+
+    0.9020

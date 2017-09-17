@@ -1,0 +1,118 @@
+Training AE 1/1
+epoch 1/1. Took 12.9342 seconds. Mini-batch mean squared error on training set is 10.7107; Full-batch train err = 9.893412
+Training NN 
+epoch 1/1. Took 4.7368 seconds. Mini-batch mean squared error on training set is 0.24858; Full-batch train err = 0.152925
+The last accuracy is 79.42%
+Training AE 1/2
+epoch 1/1. Took 12.906 seconds. Mini-batch mean squared error on training set is 10.7232; Full-batch train err = 10.352602
+Training AE 2/2
+epoch 1/1. Took 2.2257 seconds. Mini-batch mean squared error on training set is 1.2314; Full-batch train err = 0.597058
+Training NN 
+epoch 1/1. Took 5.8943 seconds. Mini-batch mean squared error on training set is 0.21317; Full-batch train err = 0.120453
+The last accuracy is 83.01%
+Training AE 1/3
+epoch 1/1. Took 12.794 seconds. Mini-batch mean squared error on training set is 10.7337; Full-batch train err = 9.926156
+Training AE 2/3
+epoch 1/1. Took 2.1713 seconds. Mini-batch mean squared error on training set is 1.3405; Full-batch train err = 0.399512
+Training AE 3/3
+epoch 1/1. Took 2.1958 seconds. Mini-batch mean squared error on training set is 52.2892; Full-batch train err = 48.642049
+Training NN 
+epoch 1/1. Took 6.7095 seconds. Mini-batch mean squared error on training set is 0.23328; Full-batch train err = 0.119265
+The last accuracy is 83.05%
+Training AE 1/4
+epoch 1/1. Took 12.9214 seconds. Mini-batch mean squared error on training set is 10.6946; Full-batch train err = 10.812895
+Training AE 2/4
+epoch 1/1. Took 2.2073 seconds. Mini-batch mean squared error on training set is 1.2372; Full-batch train err = 0.527203
+Training AE 3/4
+epoch 1/1. Took 2.2252 seconds. Mini-batch mean squared error on training set is 44.4547; Full-batch train err = 41.574971
+Training AE 4/4
+epoch 1/1. Took 2.1184 seconds. Mini-batch mean squared error on training set is 92.7781; Full-batch train err = 89.931202
+Training NN 
+epoch 1/1. Took 7.4057 seconds. Mini-batch mean squared error on training set is 0.23311; Full-batch train err = 0.076795
+The last accuracy is 90.82%
+Training AE 1/5
+epoch 1/1. Took 12.2928 seconds. Mini-batch mean squared error on training set is 10.6845; Full-batch train err = 10.850802
+Training AE 2/5
+epoch 1/1. Took 1.881 seconds. Mini-batch mean squared error on training set is 1.2158; Full-batch train err = 0.320017
+Training AE 3/5
+epoch 1/1. Took 2.1917 seconds. Mini-batch mean squared error on training set is 45.1875; Full-batch train err = 43.031107
+Training AE 4/5
+epoch 1/1. Took 2.0747 seconds. Mini-batch mean squared error on training set is 89.0188; Full-batch train err = 86.704964
+Training AE 5/5
+epoch 1/1. Took 1.8814 seconds. Mini-batch mean squared error on training set is 97.9662; Full-batch train err = 95.904917
+Training NN 
+epoch 1/1. Took 8.2429 seconds. Mini-batch mean squared error on training set is 0.23635; Full-batch train err = 0.155931
+The last accuracy is 74.05%
+Training AE 1/6
+epoch 1/1. Took 12.3788 seconds. Mini-batch mean squared error on training set is 10.6916; Full-batch train err = 11.579547
+Training AE 2/6
+epoch 1/1. Took 1.901 seconds. Mini-batch mean squared error on training set is 1.3074; Full-batch train err = 3.002395
+Training AE 3/6
+epoch 1/1. Took 2.1206 seconds. Mini-batch mean squared error on training set is 54.3719; Full-batch train err = 50.847801
+Training AE 4/6
+epoch 1/1. Took 1.9192 seconds. Mini-batch mean squared error on training set is 117.6126; Full-batch train err = 117.255066
+Training AE 5/6
+epoch 1/1. Took 1.9571 seconds. Mini-batch mean squared error on training set is 89.9338; Full-batch train err = 89.426158
+Training AE 6/6
+epoch 1/1. Took 1.9461 seconds. Mini-batch mean squared error on training set is 87.1886; Full-batch train err = 86.349803
+Training NN 
+epoch 1/1. Took 9.0518 seconds. Mini-batch mean squared error on training set is 0.47937; Full-batch train err = 0.443408
+The last accuracy is 16.98%
+Training AE 1/7
+epoch 1/1. Took 12.5208 seconds. Mini-batch mean squared error on training set is 10.7051; Full-batch train err = 10.265258
+Training AE 2/7
+epoch 1/1. Took 2.118 seconds. Mini-batch mean squared error on training set is 1.5101; Full-batch train err = 0.470331
+Training AE 3/7
+epoch 1/1. Took 2.0993 seconds. Mini-batch mean squared error on training set is 46.342; Full-batch train err = 44.703530
+Training AE 4/7
+epoch 1/1. Took 2.0932 seconds. Mini-batch mean squared error on training set is 88.8349; Full-batch train err = 86.981213
+Training AE 5/7
+epoch 1/1. Took 2.0559 seconds. Mini-batch mean squared error on training set is 98.2481; Full-batch train err = 96.416045
+Training AE 6/7
+epoch 1/1. Took 1.7768 seconds. Mini-batch mean squared error on training set is 100.6602; Full-batch train err = 98.728264
+Training AE 7/7
+epoch 1/1. Took 2.0328 seconds. Mini-batch mean squared error on training set is 100.7348; Full-batch train err = 98.862474
+Training NN 
+epoch 1/1. Took 9.8578 seconds. Mini-batch mean squared error on training set is 0.22977; Full-batch train err = 0.128469
+The last accuracy is 81.28%
+Training AE 1/8
+epoch 1/1. Took 12.6478 seconds. Mini-batch mean squared error on training set is 10.7009; Full-batch train err = 10.822954
+Training AE 2/8
+epoch 1/1. Took 2.1186 seconds. Mini-batch mean squared error on training set is 1.3788; Full-batch train err = 0.341418
+Training AE 3/8
+epoch 1/1. Took 2.0459 seconds. Mini-batch mean squared error on training set is 46.4097; Full-batch train err = 44.022253
+Training AE 4/8
+epoch 1/1. Took 2.0595 seconds. Mini-batch mean squared error on training set is 96.8771; Full-batch train err = 93.823310
+Training AE 5/8
+epoch 1/1. Took 2.0705 seconds. Mini-batch mean squared error on training set is 99.118; Full-batch train err = 96.165173
+Training AE 6/8
+epoch 1/1. Took 1.884 seconds. Mini-batch mean squared error on training set is 98.5944; Full-batch train err = 96.481254
+Training AE 7/8
+epoch 1/1. Took 2.0678 seconds. Mini-batch mean squared error on training set is 99.4365; Full-batch train err = 97.417648
+Training AE 8/8
+epoch 1/1. Took 2.0658 seconds. Mini-batch mean squared error on training set is 102.6584; Full-batch train err = 100.668984
+Training NN 
+epoch 1/1. Took 10.9176 seconds. Mini-batch mean squared error on training set is 0.26494; Full-batch train err = 0.147239
+The last accuracy is 79.43%
+Training AE 1/9
+epoch 1/1. Took 12.5938 seconds. Mini-batch mean squared error on training set is 10.7298; Full-batch train err = 10.254578
+Training AE 2/9
+epoch 1/1. Took 1.9547 seconds. Mini-batch mean squared error on training set is 1.5134; Full-batch train err = 0.535769
+Training AE 3/9
+epoch 1/1. Took 2.1804 seconds. Mini-batch mean squared error on training set is 54.5182; Full-batch train err = 50.839671
+Training AE 4/9
+epoch 1/1. Took 2.072 seconds. Mini-batch mean squared error on training set is 110.7627; Full-batch train err = 106.937853
+Training AE 5/9
+epoch 1/1. Took 1.9508 seconds. Mini-batch mean squared error on training set is 123.018; Full-batch train err = 123.089378
+Training AE 6/9
+epoch 1/1. Took 1.8933 seconds. Mini-batch mean squared error on training set is 87.1013; Full-batch train err = 86.920267
+Training AE 7/9
+epoch 1/1. Took 1.9864 seconds. Mini-batch mean squared error on training set is 97.5676; Full-batch train err = 94.902156
+Training AE 8/9
+epoch 1/1. Took 2.0034 seconds. Mini-batch mean squared error on training set is 85.8837; Full-batch train err = 83.979171
+Training AE 9/9
+epoch 1/1. Took 1.9935 seconds. Mini-batch mean squared error on training set is 94.8282; Full-batch train err = 93.491809
+Training NN 
+epoch 1/1. Took 11.6379 seconds. Mini-batch mean squared error on training set is 0.45688; Full-batch train err = 0.454180
+The last accuracy is 9.74%
+Elapsed time is 15.325673 seconds.

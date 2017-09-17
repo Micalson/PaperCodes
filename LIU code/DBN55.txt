@@ -1,0 +1,76 @@
+
+ans =
+
+     2
+
+epoch 1/5. Average reconstruction error is: 65.7645
+epoch 2/5. Average reconstruction error is: 49.7508
+epoch 3/5. Average reconstruction error is: 46.3173
+epoch 4/5. Average reconstruction error is: 44.4814
+epoch 5/5. Average reconstruction error is: 43.5275
+epoch 1/5. Took 4.1538 seconds. Mini-batch mean squared error on training set is 0.16202; Full-batch train err = 0.080735
+epoch 2/5. Took 4.1507 seconds. Mini-batch mean squared error on training set is 0.072232; Full-batch train err = 0.064216
+epoch 3/5. Took 4.1377 seconds. Mini-batch mean squared error on training set is 0.061388; Full-batch train err = 0.056774
+epoch 4/5. Took 4.2273 seconds. Mini-batch mean squared error on training set is 0.055227; Full-batch train err = 0.051955
+epoch 5/5. Took 4.2358 seconds. Mini-batch mean squared error on training set is 0.050886; Full-batch train err = 0.048340
+
+er =
+
+    0.0518
+
+
+ans =
+
+     3
+
+epoch 1/5. Average reconstruction error is: 65.7645
+epoch 2/5. Average reconstruction error is: 49.7508
+epoch 3/5. Average reconstruction error is: 46.3173
+epoch 4/5. Average reconstruction error is: 44.4814
+epoch 5/5. Average reconstruction error is: 43.5275
+epoch 1/5. Average reconstruction error is: 12.3848
+epoch 2/5. Average reconstruction error is: 9.0365
+epoch 3/5. Average reconstruction error is: 8.3895
+epoch 4/5. Average reconstruction error is: 8.1319
+epoch 5/5. Average reconstruction error is: 7.9331
+epoch 1/5. Took 5.035 seconds. Mini-batch mean squared error on training set is 0.11645; Full-batch train err = 0.063822
+epoch 2/5. Took 5.0108 seconds. Mini-batch mean squared error on training set is 0.056313; Full-batch train err = 0.049275
+epoch 3/5. Took 5.438 seconds. Mini-batch mean squared error on training set is 0.046494; Full-batch train err = 0.042145
+epoch 4/5. Took 5.2596 seconds. Mini-batch mean squared error on training set is 0.040953; Full-batch train err = 0.037836
+epoch 5/5. Took 5.1478 seconds. Mini-batch mean squared error on training set is 0.036985; Full-batch train err = 0.034622
+
+er =
+
+    0.0432
+
+
+ans =
+
+     4
+
+epoch 1/5. Average reconstruction error is: 65.7645
+epoch 2/5. Average reconstruction error is: 49.7508
+epoch 3/5. Average reconstruction error is: 46.3173
+epoch 4/5. Average reconstruction error is: 44.4814
+epoch 5/5. Average reconstruction error is: 43.5275
+epoch 1/5. Average reconstruction error is: 12.3848
+epoch 2/5. Average reconstruction error is: 9.0365
+epoch 3/5. Average reconstruction error is: 8.3895
+epoch 4/5. Average reconstruction error is: 8.1319
+epoch 5/5. Average reconstruction error is: 7.9331
+epoch 1/5. Average reconstruction error is: 9.9412
+epoch 2/5. Average reconstruction error is: 7.9586
+epoch 3/5. Average reconstruction error is: 7.6901
+epoch 4/5. Average reconstruction error is: 7.5594
+epoch 5/5. Average reconstruction error is: 7.4686
+epoch 1/5. Took 5.6489 seconds. Mini-batch mean squared error on training set is 0.10809; Full-batch train err = 0.054835
+epoch 2/5. Took 5.5922 seconds. Mini-batch mean squared error on training set is 0.048856; Full-batch train err = 0.042358
+epoch 3/5. Took 5.8336 seconds. Mini-batch mean squared error on training set is 0.040255; Full-batch train err = 0.036274
+epoch 4/5. Took 5.6636 seconds. Mini-batch mean squared error on training set is 0.035323; Full-batch train err = 0.032487
+epoch 5/5. Took 5.9716 seconds. Mini-batch mean squared error on training set is 0.031864; Full-batch train err = 0.029411
+
+er =
+
+    0.0394
+
+Elapsed time is 7.887461 seconds.
